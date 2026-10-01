@@ -4,6 +4,7 @@ source quit.sh
 source rm2.sh
 source version.sh
 source voice.sh
+source .env 
 
 cmd() {
   cmd=$1
