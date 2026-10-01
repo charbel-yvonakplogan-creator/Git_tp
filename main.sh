@@ -5,6 +5,7 @@ source rm2.sh
 source version.sh
 source voice.sh
 source .env 
+source joke.sh
 
 cmd() {
   cmd=$1
